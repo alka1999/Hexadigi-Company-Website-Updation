@@ -1,0 +1,60 @@
+body{
+    background-color: #E9FBF8;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand, .navbar-tabs {
+    align-items: stretch;
+    display: flex;
+    flex-shrink: 0;
+    min-height: 4.25rem;
+}
+.main-container{
+    width: 75%;
+    margin: 8% auto;
+}
+.container-1{
+    width: 80%;
+}
+.ser{
+    color: #35C0ED;
+}
+button:hover{
+    color: #ffffff;
+    background-color: #000000;
+}
+.txt-size{
+    font-size: 4.5rem;
+}
+.txt-size-l{
+    font-size: 9rem;
+}
+.txt-size-n{
+    font-size: 2rem;
+}
+.view-all-btn{
+    background-color: #35C0ED ;
+}
+img {
+    height: auto;
+    max-width: 100%;
+    border-radius: 20px;
+}
+.back-img{
+    background-image: url('./assets/temp3.jpg');
+    height: 300px;
+    color: #ffffff;
+}
+.container-2{
+    width: 75%;
+    margin: auto;
+    padding-top: 100px;
+}
+.container-3{
+    text-align: center;
+}
+.profile{
+    margin-top: 3%;
+    width: 10%;
+    border-radius: 50%;
+}
+
